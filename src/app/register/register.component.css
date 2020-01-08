@@ -1,0 +1,29 @@
+@font-face{
+    font-family: 'Amblas';
+    src: url('Amblas.ttf');
+    }
+#title1{
+    color: #24A647;
+    font-size: 17px;
+}
+#title2{
+    color: #0F7BFD;
+    font-size: 17px;
+}
+
+h3{
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: 'Amblas';
+    color: #D96B46
+    
+}
+
+.card {
+
+    background-color: #18343F
+   
+}
+p{
+    color:white
+}

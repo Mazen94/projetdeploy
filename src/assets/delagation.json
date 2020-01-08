@@ -1,0 +1,793 @@
+{
+	"Ariana": [
+    {
+		"delegation": "Ariana Ville"
+
+    },  
+    {
+		"delegation": "Sidi Thabet"
+		
+    }, 
+    {
+		"delegation": "La Soukra"
+		
+    },  
+    {
+		"delegation": "Raoued"
+		
+    }, 
+    {
+		"delegation": "Mnihla"
+		
+    }, 
+    {
+		"delegation": "Ettadhamen"
+		
+    },  
+    {
+		"delegation": "Kalaat Landlous"
+		
+    }],
+    
+
+
+	"Beja": [
+    {
+		"delegation": "Testour"
+    }, 
+    {
+		"delegation": "Teboursouk"
+    }, 
+    {
+		"delegation": "Beja Nord"
+    },
+    {
+		"delegation": "Mejez El Bab"
+    }, 
+    {
+		"delegation": "Nefza"	
+    }, 
+    {
+		"delegation": "Thibar"	
+    },
+    {
+		"delegation": "Amdoun"
+    },  
+    {
+		"delegation": "Goubellat"
+    }],
+    
+
+	"BenArous": [{
+		"delegation": "Fouchana"	
+    }, 
+    {
+		"delegation": "Hammam Lif"
+    },  
+    {
+		"delegation": "El Mourouj"
+    }, 
+    {
+		"delegation": "Bou Mhel El Bassatine"
+    },
+    {
+		"delegation": "Rades"
+    },
+    {
+		"delegation": "Mohamadia"
+    }, 
+    {
+		"delegation": "Megrine"
+    }, 
+    {
+		"delegation": "Nouvelle Medina"
+    }, 
+    {
+		"delegation": "Hammam Chatt"
+    }, 
+    {
+		"delegation": "Mornag"
+    }, 
+    {
+		"delegation": "Ezzahra"
+    }, 
+    {
+		"delegation": "Ghar El Melh"
+    }, 
+    {
+		"delegation": "Menzel Jemil"
+    }, 
+    {
+		"delegation": "Menzel Bourguiba"
+    }, 
+    {
+		"delegation": "Sejnane"
+    }, 
+    {
+		"delegation": "Ras Jebel"
+    },
+    {
+		"delegation": "Bizerte Sud"
+    },
+    {
+		"delegation": "Ghezala"
+    }, 
+    {
+		"delegation": "Joumine"
+    },
+    {
+		"delegation": "Utique"
+    },
+     {
+		"delegation": "El Alia"
+    },
+    {
+		"delegation": "Mateur"
+    },  
+    {
+		"delegation": "Jarzouna"
+    },
+    {
+		"delegation": "Tinja"
+    }],
+    
+
+
+
+
+
+	"Gabes": [
+     {
+		"delegation": "Matmata"
+    },
+     {
+		"delegation": "Mareth"
+    }, 
+    {
+		"delegation": "Nouvelle Matmata"
+    }, 
+    {
+		"delegation": "Gabes Medina"
+    }, 
+    {
+		"delegation": "Gabes Ouest"
+    }, 
+     {
+		"delegation": "El Metouia"
+    }, 
+ 
+    {
+		"delegation": "El Metouia"
+    },  
+    {
+		"delegation": "Ghannouche"
+    }, 
+
+    {
+		"delegation": "El Hamma"
+    }, 
+    {
+        "delegation": "Gabes Sud"
+        
+    },
+    {
+		"delegation": "Menzel Habib"
+	
+    }],
+    
+
+
+
+
+	"Gafsa": [{
+		"delegation": "Belkhir"
+    }, 
+    {
+		"delegation": "Gafsa Nord"
+    }, 
+    {
+		"delegation": "Redeyef"
+    }, 
+    {
+		"delegation": "Gafsa Sud"
+    }, 
+    {
+		"delegation": "El Ksar"
+    },
+    {
+		"delegation": "Moulares"
+    },  
+    {
+		"delegation": "El Mdhilla"
+    }, 
+ {
+		"delegation": "Metlaoui"
+    }, 
+    {
+		"delegation": "El Guettar"
+    },
+      {
+		"delegation": "Sned"
+    },  
+    {
+		"delegation": "Sidi Aich"
+    }, 
+    {
+		"delegation": "El Ksar"
+    }, 
+    {
+		"delegation": "Sidi Aich"
+	
+    }],
+    
+
+
+
+
+
+    "Jendouba": [{
+		"delegation": "Balta Bou Aouene"
+	}, {
+		"delegation": "Fernana"
+	}, {
+		"delegation": "Jendouba Nord"
+	}, {
+		"delegation": "Ain Draham"
+	},  {
+		"delegation": "Tabarka"
+	},  {
+		"delegation": "Bou Salem"
+	}, {
+		"delegation": "Oued Mliz"
+	}, {
+		"delegation": "Jendouba"
+	},  {
+		"delegation": "Ghardimaou"
+	}, {
+		"delegation": "Bou Salem"
+	},{
+		"delegation": "Hajeb El Ayoun"
+	}, {
+		"delegation": "Sbikha"
+	}, {
+		"delegation": "Bou Hajla"
+	}, {
+		"delegation": "Kairouan Nord"
+	}, {
+		"delegation": "Hajeb El Ayoun"
+	}, {
+		"delegation": "Haffouz"
+	}, {
+		"delegation": "Chebika"
+	}, {
+		"delegation": "Nasrallah"
+	}, {
+		"delegation": "Kairouan Sud"
+	},  {
+		"delegation": "Bou Hajla"
+	},  {
+		"delegation": "Kairouan Nord"
+	}, {
+		"delegation": "Cherarda"
+	}, {
+		"delegation": "El Ala"
+	},{
+		"delegation": "Sbikha"
+	}, {
+		"delegation": "Cherarda"
+	},  {
+		"delegation": "Oueslatia"
+	}, {
+		"delegation": "El Ala"
+	}, {
+		"delegation": "Kairouan Sud"
+	}, {
+		"delegation": "Oueslatia"
+	}, {
+		"delegation": "El Ala"
+	}, {
+		"delegation": "Oueslatia"
+    }],
+    
+
+	"Kasserine": [{
+		"delegation": "Sbeitla"
+	}, {
+		"delegation": "Foussana"
+    },
+     {
+		"delegation": "Haidra"
+    }
+    , {
+		"delegation": "Sbiba"
+    }, 
+    {
+		"delegation": "Kasserine Nord"
+    }, 
+    {
+		"delegation": "Thala"
+    },
+     {
+		"delegation": "Mejel Bel Abbes"
+    },
+     {
+		"delegation": "Ezzouhour  (Kasserine)"
+    },
+     {
+		"delegation": "Jediliane"
+    },  
+     {
+		"delegation": "Hassi El Frid"
+    },
+    {
+		"delegation": "Sbeitla"
+    }, 
+    {
+		"delegation": "El Ayoun"
+    }],
+    
+
+
+    "Kebili": 
+    [{
+		"delegation": "Souk El Ahad"
+	}, {
+		"delegation": "Kebili Sud"
+	},  {
+		"delegation": "Kebili Nord"
+	},{
+		"delegation": "Douz"
+	}, {
+		"delegation": "El Faouar"
+	
+    }],
+    
+
+
+
+    "Kef": 
+    [{
+		"delegation": "Tajerouine"
+	}, {
+		"delegation": "Dahmani"
+	}, {
+		"delegation": "Le Kef Est"
+	}, {
+		"delegation": "Sakiet Sidi Youssef"
+	}, {
+		"delegation": "Le Sers"
+	}, {
+		"delegation": "Nebeur"
+	},  {
+		"delegation": "El Ksour"
+	},  {
+		"delegation": "Touiref"
+    },
+     {
+		"delegation": "Kalaa El Khasba"
+    }, 
+     {
+		"delegation": "Kalaat Sinane"
+	}, {
+		"delegation": "Jerissa"
+	}],
+
+
+
+	"Mahdia": [{
+		"delegation": "Mahdia"
+	}, {
+		"delegation": "Chorbane"
+	}, {
+		"delegation": "La Chebba"
+	}, {
+		"delegation": "Bou Merdes"
+	}, {
+		"delegation": "Ksour Essaf"
+	}, {
+		"delegation": "Sidi Alouene"
+	
+	},  {
+		"delegation": "Hbira"
+	},  {
+		"delegation": "Melloulech"
+
+	}, {
+		"delegation": "Souassi"
+    },
+    {
+		"delegation": "Ouled Chamakh"
+	}, {
+		"delegation": "Jedaida"
+	},{
+		"delegation": "Mornaguia"
+	}, {
+		"delegation": "El Battan"
+	}, {
+		"delegation": "Oued Ellil"
+	},  {
+		"delegation": "Douar Hicher"
+	}, {
+		"delegation": "Tebourba"
+
+    },
+    {
+		"delegation": "Borj El Amri"
+	}],
+    
+
+    
+    "Medenine": 
+    [{
+		"delegation": "Houmet Essouk"
+	}, {
+		
+		"delegation": "Beni Khedache"
+	}, {
+		
+		"delegation": "Ajim"
+	},{
+		
+        "delegation": "Sidi Makhlouf"
+	},{
+        	
+		"delegation": "Ben Guerdane"
+    },
+     {
+		
+		"delegation": "Medenine Nord"
+	},   {
+		
+		"delegation": "Ajim"
+	},  {
+		
+		"delegation": "Zarzis"
+    },
+      {
+		
+		"delegation": "Medenine Sud"
+	},  {
+		
+		"delegation": "Midoun"
+    }],
+    
+
+
+	"Monastir": [ 
+    {
+		"delegation": "Sahline"
+    }, 
+    {
+		"delegation": "Ksibet El Mediouni"
+    }, 
+    {
+		"delegation": "Sahline"
+    }, 
+    {
+		"delegation": "Jemmal"
+    },   
+    {
+		"delegation": "Monastir"
+    }, 
+    {
+		"delegation": "Sayada Lamta Bou Hajar"
+	},	
+     
+    {
+		"delegation": "Moknine"
+    }, 
+    {
+		"delegation": "Ksar Helal"
+	},	
+	{
+		"delegation": "Zeramdine"
+    },
+    {
+		"delegation": "Bekalta"
+
+    },  
+    {
+		"delegation": "Bembla"
+    },
+    {
+		"delegation": "Ouerdanine"
+    }],
+
+
+
+	"Nabeul": [{
+		"delegation": "Beni Khiar"
+    }, 
+    {
+		"delegation": "Takelsa"
+    }, 
+    {
+		"delegation": "El Mida"
+    }, 
+    {
+		"delegation": "Menzel Bouzelfa"
+    },
+    {
+		"delegation": "Kelibia"
+    }, 
+    {
+		"delegation": "Hammamet"
+    },  
+    {
+		"delegation": "Bou Argoub"
+    },
+    {
+		"delegation": "Korba"
+    },  
+    {
+		"delegation": "Menzel Temime"
+    },  
+    {
+		"delegation": "Nabeul"
+    }, 
+    {
+		"delegation": "El Haouaria"
+    }, 
+    {
+		"delegation": "Soliman"
+    }, 
+    {
+		"delegation": "Grombalia"
+    }, 
+    {
+		"delegation": "Hammam El Ghezaz"
+    }, 
+    {
+		"delegation": "Dar Chaabane Elfehri"
+    }, 
+    {
+		"delegation": "Beni Khalled"
+    },  
+    {
+		"delegation": "Takelsa"
+    }, 
+    {
+		"delegation": "Menzel Temime"
+    } 
+   ],
+    
+
+
+
+	"Sfax": [{
+		"delegation": "Agareb"
+	},{
+		"delegation": "El Hencha"
+	}, {
+		"delegation": "Sfax Est"
+	},  {
+		"delegation": "Sfax Sud"
+	},  {
+		"delegation": "Sfax Ville"
+	}, {
+		"delegation": "El Amra"
+	},  {
+		"delegation": "Bir Ali Ben Khelifa"
+    },
+    {	"delegation": "Kerkenah"
+	},   {
+		"delegation": "Sakiet Eddaier"
+	}, {
+		"delegation": "Jebeniana"
+	}, {
+		"delegation": "Sakiet Ezzit"
+	},  {
+		"delegation": "Sakiet Eddaier"
+	}, {
+		"delegation": "Menzel Chaker"
+	},  {
+		"delegation": "Esskhira"
+	}, {
+		"delegation": "Ghraiba"
+
+	}, {
+		"delegation": "Jebeniana"
+	},   {
+		"delegation": "Mahras"
+	}, {
+		"delegation": "El Hencha"
+	}, {
+		"delegation": "Jebeniana"
+	}],
+    
+
+
+
+
+
+
+
+	"Sidi Bouzid": [{
+		"delegation": "Menzel Bouzaiene"
+	}, {
+		"delegation": "Sidi Bouzid Ouest"
+	}, {
+		"delegation": "Ben Oun"
+	}, {
+		"delegation": "Sidi Bouzid Est"
+	}, {
+		"delegation": "Ouled Haffouz"
+    }, 
+     {
+		"delegation": "Regueb"
+	},{
+		"delegation": "Maknassy"
+	}, {
+		"delegation": "Jilma"
+    },
+     {
+		"delegation": "Souk Jedid"
+	}, {
+		"delegation": "Bir El Haffey"
+	}, {
+		"delegation": "Cebbala"
+	}, {
+		"delegation": "Mezzouna"
+    }],
+    
+
+
+
+
+
+
+
+
+
+	"Siliana": [{
+		"delegation": "Makthar"
+	}, {
+		"delegation": "Bou Arada"
+	}, {
+		"delegation": "Sidi Bou Rouis"
+	},  {
+		"delegation": "Kesra"
+	},  {
+		"delegation": "El Aroussa"
+	},  {
+		"delegation": "Siliana Nord"
+	}, {
+		"delegation": "Le Krib",
+		"localite": "Cite Abdrabbah 2"
+	},  {
+		"delegation": "Rohia"
+	}, {
+		"delegation": "Siliana Sud"
+	},{
+		"delegation": "Gaafour"
+	}, {
+		"delegation": "Bargou"
+	}, {
+		"delegation": "Siliana Sud"
+    }],
+    
+
+
+	"Sousse": [{
+		"delegation": "Sidi El Heni"
+	}, {
+		"delegation": "Sousse Jaouhara"
+	}, {
+		"delegation": "Bou Ficha"
+	}, {
+		"delegation": "Sousse Ville"
+	},{
+		"delegation": "Enfidha"
+	}, {
+		"delegation": "Kalaa El Kebira"
+	}, {
+		"delegation": "Msaken"
+	}, {
+		"delegation": "Hammam Sousse"
+	},  {
+		"delegation": "Sidi Bou Ali"
+        }
+        ,{
+		"delegation": "Kondar"
+	},{
+		"delegation": "Kalaa Essghira"
+	},  {
+		"delegation": "Sousse Riadh"
+	},  {
+		"delegation": "Sidi El Heni"
+	}, {
+		"delegation": "Akouda"
+    }],
+    
+
+
+
+	"Tataouine": [{
+		"delegation": "Tataouine Sud"
+
+	}, {
+		"delegation": "Smar"
+	},  {
+		"delegation": "Bir Lahmar"
+	}, {
+		"delegation": "Ghomrassen"
+	}, {
+		"delegation": "Tataouine Nord"
+	}, {
+		"delegation": "Remada"
+	}, {
+		"delegation": "Dhehiba"
+    }],
+    
+
+
+
+	"Tozeur": [{
+		"delegation": "Degueche"
+	}, {
+		"delegation": "Tozeur"
+	}, {
+		"delegation": "Tameghza"
+	}, {
+		"delegation": "Nefta"
+    }],
+    
+
+
+	"Tunis": [{
+		"delegation": "Jebel Jelloud"
+	}, {
+		"delegation": "Carthage"
+	}, {
+		"delegation": "La Marsa"
+	},{
+		"delegation": "Bab Bhar"
+	},{
+		"delegation": "Le Bardo"
+	}, {
+		"delegation": "La Goulette"
+	},  {
+		"delegation": "La Medina"
+	},  {
+		"delegation": "El Omrane Superieur"
+	}, {
+		"delegation": "Cite El Khadra"
+	}, {
+		"delegation": "El Hrairia"
+	}, {
+		"delegation": "El Kabbaria"
+	}, {
+		"delegation": "Ezzouhour  (Tunis)"
+	}, {
+		"delegation": "Sidi El Bechir"
+	}, {
+		"delegation": "El Omrane"
+	}, {
+		"delegation": "Sidi El Bechir"
+	}, {
+		"delegation": "Bab Souika"
+	},{
+		"delegation": "Sidi Hassine"
+	},  {
+		"delegation": "El Kram"
+	},  {
+		"delegation": "Essijoumi"
+	}, {
+		"delegation": "Ettahrir"
+	}, {
+		"delegation": "El Ouerdia"
+	},  {
+		"delegation": "Zaghouan"
+	}, {
+		"delegation": "Ennadhour"
+	}, {
+		"delegation": "El Fahs"
+	},  {
+		"delegation": "Bir Mcherga"
+	},  {
+		"delegation": "Saouef"
+	
+	},  {
+		"delegation": "Hammam Zriba"
+	}]
+}
